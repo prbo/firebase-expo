@@ -19,7 +19,8 @@ import {
 import * as firebase from 'firebase';
 
 const firebaseConfig = {
-	databaseURL: "https://expo-56d88.firebaseio.com",
+	//databaseURL: "https://expo-56d88.firebaseio.com",
+	databaseURL: "https://web-js-4f962.firebaseio.com"
 };
 
 firebase.initializeApp(firebaseConfig);
